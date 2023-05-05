@@ -1,0 +1,10 @@
+# Ignore Visual Studio Code workspace files
+.vscode/
+
+# Ignore build output folders
+bin/
+obj/
+
+
+# Ignore files
+PrimerEntrega-David-Silvestri.csproj
